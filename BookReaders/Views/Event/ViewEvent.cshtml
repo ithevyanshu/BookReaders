@@ -1,0 +1,98 @@
+﻿@using System.Security.Claims
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@using Shared
+@model Event
+@{
+    ViewData["Title"] = Model.Title;
+}
+
+<h5>
+    @Model.Title
+    @if ((@Model.UserId == User.FindFirstValue(ClaimTypes.NameIdentifier) || Model.Role=="Admin") && Model.Date > DateTime.Now)
+    {
+        <a asp-action="EditEvent" asp-controller="Event" asp-route-id="@Model.EventId">
+            <span class="material-symbols-outlined">edit_note</span>
+        </a>
+        <a asp-action="DeleteEvent" asp-controller="Event" asp-route-id="@Model.EventId">
+            <span class="material-symbols-outlined">delete</span>
+
+        </a>
+    }
+</h5>
+<hr class="my-0" style="height: 1px;"/>
+<br/><br/><br/>
+<div class=container>
+    <div class="row">
+        <div class="col-2"><h6>Date : </h6></div>
+        <div class="col-10">@Model.Date.ToShortDateString()</div>
+    </div>
+</div>
+<div class=container>
+    <div class="row">
+        <div class="col-2"><h6>Location : </h6></div>
+        <div class="col-10">@Model.Location</div>
+    </div>
+</div>
+<div class=container>
+    <div class="row">
+        <div class="col-2"><h6>Starts At : </h6></div>
+        <div class="col-10">@Model.StartTime.ToShortTimeString()</div>
+    </div>
+</div>
+<div class=container>
+    <div class="row">
+        <div class="col-2"><h6>Duration : </h6></div>
+        <div class="col-10">@Model.Duration</div>
+    </div>
+</div>
+<div class=container>
+    <div class="row">
+        <div class="col-2"><h6>Description : </h6></div>
+        <div class="col-10">@Model.Description</div>
+    </div>
+</div>
+<div class=container>
+    <div class="row">
+        <div class="col-2"><h6>Other Details : </h6></div>
+        <div class="col-10">@Model.OtherDetails</div>
+    </div>
+</div>
+
+<br/><br/>
+<form asp-controller="Event" asp-action="Comment">
+    <input type="hidden" asp-for="@Model.EventId"/>
+    <div class="form-group">
+        <label asp-for="@Model.CommentAdded"><h6>Comment</h6></label>
+        <input asp-for="@Model.CommentAdded" class="form-control" value=""/>
+        <span asp-validation-for="CommentAdded" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+<br/>
+
+@{
+    if (Model.CommentAdded != null)
+    {
+        var csv = Model.CommentAdded;
+        string[] values = csv.Split(',');
+        <div class="card-body p-4">
+            <h6>Recent Comments</h6>
+            @foreach (var comment in values)
+            {
+                <hr class="my-0" style="height: 1px;" />
+                var details = comment;
+                string[] detail = details.Split('+');
+                <div class="d-flex flex-start">
+                    <div>
+                        <p class="mb-0">
+                            @detail[0]
+                            <div class="d-flex align-items-center mb-3">
+                                <p class="font-weight-light">Posted On : @detail[1]</p>
+                            </div>
+                        </p>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+}

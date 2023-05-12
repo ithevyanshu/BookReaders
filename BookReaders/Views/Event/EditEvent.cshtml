@@ -1,0 +1,71 @@
+﻿@using Shared
+@model Event
+@{
+    ViewData["Title"] = "Edit-"+Model.Title;
+}
+
+<h2>Edit Events</h2>
+
+<form asp-controller="Event" asp-action="EditEvent">
+    <input type="hidden" asp-for="EventId"/>
+    <div class="form-group">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control">
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Date"></label>
+        <input asp-for="Date" class="form-control">
+        <span asp-validation-for="Date" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Location"></label>
+        <input asp-for="Location" class="form-control">
+        <span asp-validation-for="Location" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="StartTime"></label>
+        <input asp-for="StartTime" class="form-control">
+        <span asp-validation-for="StartTime" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Duration"></label>
+        <input asp-for="Duration" class="form-control">
+        <span asp-validation-for="Duration" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="OtherDetails"></label>
+        <textarea asp-for="OtherDetails" class="form-control"></textarea>
+        <span asp-validation-for="OtherDetails" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Type"></label>
+        <div class="form-check form-check-inline">
+            <input asp-for="Type" class="form-check-input" id="inlineRadio1" type="radio" value="Public" checked>
+            <label class="form-check-label" asp-for="Type">Public</label>
+        </div>
+        <div class="form-check form-check-inline">
+            <input asp-for="Type" class="form-check-input" id="inlineRadio2" type="radio" value="Private">
+            <label class="form-check-label" asp-for="Type">Private</label>
+        </div>
+        <span asp-validation-for="Type" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="InviteByEmail"></label>
+        <textarea asp-for="InviteByEmail" class="form-control"></textarea>
+        <span asp-validation-for="InviteByEmail" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

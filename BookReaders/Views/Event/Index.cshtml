@@ -1,0 +1,30 @@
+﻿@using Shared
+@model List<Event>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            <h6>Upcoming Events</h6>
+            @foreach (var eventItem in Model)
+            {
+                if (eventItem.Date > DateTime.Now && eventItem.Type == "Public")
+                {
+                    <ul><li><a asp-action="ViewEvent" asp-controller="Event" asp-route-id="@eventItem.EventId">@eventItem.Title</a></li></ul>
+                }
+            }
+        </div>
+        <div class="col-6">
+            <h6>Previous Events</h6>
+            @foreach (var eventItem in Model)
+            {
+                if (eventItem.Date < DateTime.Now && eventItem.Type == "Public")
+                {
+                    <ul><li><a asp-action="ViewEvent" asp-controller="Event" asp-route-id="@eventItem.EventId">@eventItem.Title</a></li></ul>
+                }
+            }
+        </div>
+    </div>
+</div>

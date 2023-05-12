@@ -1,0 +1,45 @@
+C:\Users\divyanshumishra\Desktop\NagarroAss\Business Layer\bin\Debug\netcoreapp3.1\Business Layer.deps.json
+C:\Users\divyanshumishra\Desktop\NagarroAss\Business Layer\bin\Debug\netcoreapp3.1\Business Layer.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\Business Layer\bin\Debug\netcoreapp3.1\Business Layer.pdb
+C:\Users\divyanshumishra\Desktop\NagarroAss\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.csproj.AssemblyReference.cache
+C:\Users\divyanshumishra\Desktop\NagarroAss\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divyanshumishra\Desktop\NagarroAss\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.AssemblyInfoInputs.cache
+C:\Users\divyanshumishra\Desktop\NagarroAss\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.AssemblyInfo.cs
+C:\Users\divyanshumishra\Desktop\NagarroAss\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\divyanshumishra\Desktop\NagarroAss\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.pdb
+C:\Users\divyanshumishra\Desktop\NagarroAss\Business Layer\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\Business Layer\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\divyanshumishra\Desktop\NagarroAss\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.csproj.CopyComplete
+C:\Users\divyanshumishra\Desktop\NagarroAss\Business Layer\bin\Debug\netcoreapp3.1\Data Access Layer.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\Business Layer\bin\Debug\netcoreapp3.1\Data Access Layer.pdb
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\Business Layer\bin\Debug\netcoreapp3.1\Business Layer.deps.json
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\Business Layer\bin\Debug\netcoreapp3.1\Business Layer.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\Business Layer\bin\Debug\netcoreapp3.1\Business Layer.pdb
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\Business Layer\bin\Debug\netcoreapp3.1\Data Access Layer.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\Business Layer\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\Business Layer\bin\Debug\netcoreapp3.1\Data Access Layer.pdb
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\Business Layer\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.csproj.AssemblyReference.cache
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.AssemblyInfoInputs.cache
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.AssemblyInfo.cs
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.csproj.CopyComplete
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.pdb
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\Business Layer\bin\Debug\netcoreapp3.1\Business Layer.deps.json
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\Business Layer\bin\Debug\netcoreapp3.1\Business Layer.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\Business Layer\bin\Debug\netcoreapp3.1\Business Layer.pdb
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\Business Layer\bin\Debug\netcoreapp3.1\Data Access Layer.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\Business Layer\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\Business Layer\bin\Debug\netcoreapp3.1\Data Access Layer.pdb
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\Business Layer\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.csproj.AssemblyReference.cache
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.AssemblyInfoInputs.cache
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.AssemblyInfo.cs
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.csproj.CopyComplete
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\Business Layer\obj\Debug\netcoreapp3.1\Business Layer.pdb

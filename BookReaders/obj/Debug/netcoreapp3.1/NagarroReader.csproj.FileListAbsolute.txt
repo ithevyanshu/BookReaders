@@ -1,0 +1,426 @@
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.exe
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.deps.json
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.runtimeconfig.json
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.runtimeconfig.dev.json
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.pdb
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.Views.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.Views.pdb
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.csproj.AssemblyReference.cache
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.AssemblyInfoInputs.cache
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.AssemblyInfo.cs
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.csproj.CoreCompileInputs.cache
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.RazorAssemblyInfo.cache
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.RazorAssemblyInfo.cs
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\staticwebassets\NagarroReader.StaticWebAssets.Manifest.cache
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\staticwebassets\NagarroReader.StaticWebAssets.Pack.cache
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.NagarroReader.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.NagarroReader.props
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.NagarroReader.props
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.NagarroReader.props
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.TagHelpers.input.cache
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.TagHelpers.output.cache
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.RazorCoreGenerate.cache
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.RazorTargetAssemblyInfo.cache
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.RazorTargetAssemblyInfo.cs
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.Views.pdb
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.pdb
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.genruntimeconfig.cache
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.csproj.CopyComplete
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Event\CreateEvent.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Event\Invitation.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Event\MyEvent.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Event\Index.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Event\ViewEvent.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Event\EditEvent.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PartialName.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\divyanshu-mishra\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Event\Comment.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.exe
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.deps.json
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.runtimeconfig.json
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.runtimeconfig.dev.json
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.pdb
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.Views.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.Views.pdb
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Business Layer.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Data Access Layer.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Business Layer.pdb
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Data Access Layer.pdb
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.csproj.AssemblyReference.cache
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.AssemblyInfoInputs.cache
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.AssemblyInfo.cs
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.csproj.CoreCompileInputs.cache
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.RazorAssemblyInfo.cache
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.RazorAssemblyInfo.cs
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\staticwebassets\NagarroReader.StaticWebAssets.Manifest.cache
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\staticwebassets\NagarroReader.StaticWebAssets.Pack.cache
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.NagarroReader.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.NagarroReader.props
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.NagarroReader.props
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.NagarroReader.props
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.TagHelpers.input.cache
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.TagHelpers.output.cache
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.RazorCoreGenerate.cache
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Event\CreateEvent.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Event\EditEvent.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Event\Index.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Event\Invitation.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Event\MyEvent.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Event\ViewEvent.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PartialName.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.RazorTargetAssemblyInfo.cache
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.RazorTargetAssemblyInfo.cs
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.Views.pdb
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.csproj.CopyComplete
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.pdb
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.genruntimeconfig.cache
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Azure.Management.ContainerInstance.Fluent.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Azure.Management.Graph.RBAC.Fluent.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Azure.Management.Msi.Fluent.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Azure.Management.Network.Fluent.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Azure.Management.ResourceManager.Fluent.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Azure.Management.Storage.Fluent.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:\Users\divyanshumishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.csproj.AssemblyReference.cache
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.AssemblyInfoInputs.cache
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.AssemblyInfo.cs
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.csproj.CoreCompileInputs.cache
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.RazorAssemblyInfo.cache
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.RazorAssemblyInfo.cs
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.pdb
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.exe
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.deps.json
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.runtimeconfig.json
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.runtimeconfig.dev.json
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.pdb
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.Views.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\NagarroReader.Views.pdb
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Azure.Management.ContainerInstance.Fluent.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Azure.Management.Graph.RBAC.Fluent.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Azure.Management.Msi.Fluent.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Azure.Management.Network.Fluent.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Azure.Management.ResourceManager.Fluent.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Azure.Management.Storage.Fluent.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Business Layer.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Data Access Layer.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Business Layer.pdb
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Data Access Layer.pdb
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\staticwebassets\NagarroReader.StaticWebAssets.Manifest.cache
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\staticwebassets\NagarroReader.StaticWebAssets.Pack.cache
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.NagarroReader.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.NagarroReader.props
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.NagarroReader.props
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.NagarroReader.props
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.TagHelpers.input.cache
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.TagHelpers.output.cache
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.RazorCoreGenerate.cache
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Event\CreateEvent.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Event\EditEvent.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Event\Index.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Event\Invitation.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Event\MyEvent.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Event\ViewEvent.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PartialName.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.RazorTargetAssemblyInfo.cache
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.RazorTargetAssemblyInfo.cs
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.Views.pdb
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.csproj.CopyComplete
+C:\Users\Divyanshu Mishra\Desktop\NagarroAss\NagarroReader\obj\Debug\netcoreapp3.1\NagarroReader.genruntimeconfig.cache
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\NagarroReader.exe
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\NagarroReader.deps.json
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\NagarroReader.runtimeconfig.json
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\NagarroReader.runtimeconfig.dev.json
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\NagarroReader.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\NagarroReader.pdb
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\NagarroReader.Views.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\NagarroReader.Views.pdb
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Azure.Management.ContainerInstance.Fluent.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Azure.Management.Graph.RBAC.Fluent.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Azure.Management.Msi.Fluent.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Azure.Management.Network.Fluent.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Azure.Management.ResourceManager.Fluent.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Azure.Management.Storage.Fluent.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Business Layer.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Data Access Layer.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Business Layer.pdb
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Data Access Layer.pdb
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\NagarroReader.csproj.AssemblyReference.cache
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\NagarroReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\NagarroReader.AssemblyInfoInputs.cache
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\NagarroReader.AssemblyInfo.cs
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\NagarroReader.csproj.CoreCompileInputs.cache
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\NagarroReader.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\NagarroReader.RazorAssemblyInfo.cache
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\NagarroReader.RazorAssemblyInfo.cs
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\staticwebassets\NagarroReader.StaticWebAssets.Manifest.cache
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\staticwebassets\NagarroReader.StaticWebAssets.Pack.cache
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.NagarroReader.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.NagarroReader.props
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.NagarroReader.props
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.NagarroReader.props
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\NagarroReader.TagHelpers.input.cache
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\NagarroReader.TagHelpers.output.cache
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\NagarroReader.RazorCoreGenerate.cache
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\Razor\Views\Event\CreateEvent.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\Razor\Views\Event\EditEvent.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\Razor\Views\Event\Index.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\Razor\Views\Event\Invitation.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\Razor\Views\Event\MyEvent.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\Razor\Views\Event\ViewEvent.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PartialName.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\NagarroReader.RazorTargetAssemblyInfo.cache
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\NagarroReader.RazorTargetAssemblyInfo.cs
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\NagarroReader.Views.pdb
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\NagarroReader.csproj.CopyComplete
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\NagarroReader.dll
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\NagarroReader.pdb
+C:\Users\Divyanshu Mishra\Desktop\BookReaders\BookReaders\obj\Debug\netcoreapp3.1\NagarroReader.genruntimeconfig.cache
